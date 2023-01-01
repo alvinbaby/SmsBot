@@ -1,4 +1,4 @@
-# Sms Eye
+# Sms Bot
 <img src="/Preview/EyePreview.png" width="100%" />
 
 #### This software is made for educational purposes only !
